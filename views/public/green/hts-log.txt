@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Nov 2023 12:06:22 at http://st.ourhtmldemo.com/new/Ecogreen_Template/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://st.ourhtmldemo.com/new/Ecogreen_Template/ -O1 "C:\My Web Sites\green" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:09:15	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/cause.html (from st.ourhtmldemo.com/new/Ecogreen_Template/)
+12:09:15	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/3 (from st.ourhtmldemo.com/new/Ecogreen_Template/)
+12:09:19	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/Good-Nature (from st.ourhtmldemo.com/new/Ecogreen_Template/)
+12:09:19	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/testimonial (from st.ourhtmldemo.com/new/Ecogreen_Template/)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/checkout.php (from st.ourhtmldemo.com/new/Ecogreen_Template/shop-cart.html)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/event-1.html (from st.ourhtmldemo.com/new/Ecogreen_Template/single-event.html)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/openhand.cur (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/closedhand.cur (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/assets/gridtile.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/assets/gridtile_white.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/assets/gridtile_3x3.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/assets/gridtile_3x3_white.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/assets/coloredbg.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/assets/loader.gif (from st.ourhtmldemo.com/new/Ecogreen_Template/css/settings.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/owl.video.play.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/owl.carousel.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/controls.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery.bxslider.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/fonts/webfont/flexslider-icon.eot (from st.ourhtmldemo.com/new/Ecogreen_Template/css/flexslider.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/fonts/webfonts/flexslider-icon.eot? (from st.ourhtmldemo.com/new/Ecogreen_Template/css/flexslider.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/fonts/webfonts/flexslider-icon.woff (from st.ourhtmldemo.com/new/Ecogreen_Template/css/flexslider.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/fonts/webfonts/flexslider-icon.ttf (from st.ourhtmldemo.com/new/Ecogreen_Template/css/flexslider.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/fonts/webfonts/flexslider-icon.svg (from st.ourhtmldemo.com/new/Ecogreen_Template/css/flexslider.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-bg_glass_75_e6e6e6_1x400.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-bg_glass_75_dadada_1x400.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-bg_glass_65_ffffff_1x400.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-bg_glass_55_fbf9ee_1x400.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-bg_glass_95_fef1ec_1x400.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-icons_222222_256x240.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.theme.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-icons_888888_256x240.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.theme.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-icons_454545_256x240.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.theme.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-icons_2e83ff_256x240.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.theme.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/css/images/ui-icons_cd0a0a_256x240.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/jquery-ui.theme.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/images/flags/gb.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/polyglot-language-switcher.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/images/flags/fr.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/polyglot-language-switcher.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/images/flags/de.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/polyglot-language-switcher.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/images/flags/it.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/polyglot-language-switcher.css)
+12:10:03	Error: 	"Not Found" (404) at link st.ourhtmldemo.com/new/Ecogreen_Template/images/flags/es.png (from st.ourhtmldemo.com/new/Ecogreen_Template/css/polyglot-language-switcher.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 42 seconds : 305 links scanned, 267 files written (7862349 bytes overall) [4782548 bytes received at 21543 bytes/sec], 4410542 bytes transferred using HTTP compression in 103 files, ratio 26%, 6.7 requests per connection
+(37 errors, 0 warnings, 0 messages)
