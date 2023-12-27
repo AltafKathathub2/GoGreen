@@ -9,7 +9,7 @@ const volunteerSchema = mongoose.Schema({
     initiative: String,
 }, { timestamps: true });
 
-// Correct usage: mongoose.model, not mongoose.models
+
 const Volunteer = mongoose.model('Volunteer', volunteerSchema);
 
 module.exports = Volunteer;
